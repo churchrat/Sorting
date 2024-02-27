@@ -1,0 +1,14 @@
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\bin\Debug\net8.0\SearchSorted.exe
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\bin\Debug\net8.0\SearchSorted.deps.json
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\bin\Debug\net8.0\SearchSorted.runtimeconfig.json
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\bin\Debug\net8.0\SearchSorted.dll
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\bin\Debug\net8.0\SearchSorted.pdb
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\SearchSorted.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\SearchSorted.AssemblyInfoInputs.cache
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\SearchSorted.AssemblyInfo.cs
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\SearchSorted.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\SearchSorted.dll
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\refint\SearchSorted.dll
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\SearchSorted.pdb
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\SearchSorted.genruntimeconfig.cache
+C:\Users\Misho\source\repos\AlgoritmSort\SearchSorted\obj\Debug\net8.0\ref\SearchSorted.dll

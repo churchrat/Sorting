@@ -1,0 +1,14 @@
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\bin\Debug\net8.0\ComparingSymbols.exe
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\bin\Debug\net8.0\ComparingSymbols.deps.json
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\bin\Debug\net8.0\ComparingSymbols.runtimeconfig.json
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\bin\Debug\net8.0\ComparingSymbols.dll
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\bin\Debug\net8.0\ComparingSymbols.pdb
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ComparingSymbols.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ComparingSymbols.AssemblyInfoInputs.cache
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ComparingSymbols.AssemblyInfo.cs
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ComparingSymbols.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ComparingSymbols.dll
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\refint\ComparingSymbols.dll
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ComparingSymbols.pdb
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ComparingSymbols.genruntimeconfig.cache
+C:\Users\Misho\source\repos\AlgoritmSort\ComparingSymbols\obj\Debug\net8.0\ref\ComparingSymbols.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ComparingSymbols/1.0.0": {
+        "runtime": {
+          "ComparingSymbols.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComparingSymbols/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

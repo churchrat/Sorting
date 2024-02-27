@@ -1,0 +1,14 @@
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\bin\Debug\net8.0\InsertingElementArray.exe
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\bin\Debug\net8.0\InsertingElementArray.deps.json
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\bin\Debug\net8.0\InsertingElementArray.runtimeconfig.json
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\bin\Debug\net8.0\InsertingElementArray.dll
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\bin\Debug\net8.0\InsertingElementArray.pdb
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\InsertingElementArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\InsertingElementArray.AssemblyInfoInputs.cache
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\InsertingElementArray.AssemblyInfo.cs
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\InsertingElementArray.csproj.CoreCompileInputs.cache
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\InsertingElementArray.dll
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\refint\InsertingElementArray.dll
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\InsertingElementArray.pdb
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\InsertingElementArray.genruntimeconfig.cache
+C:\Users\Misho\source\repos\AlgoritmSort\InsertingElementArray\obj\Debug\net8.0\ref\InsertingElementArray.dll
